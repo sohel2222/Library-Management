@@ -1,0 +1,200 @@
+h1,h2,h3,h4,h5,h6{
+	margin: 0;
+	padding: 0;
+}
+.header_top{
+	padding: 15px;
+	background:#778899;
+}
+.header_top h1{
+	text-align: center;
+	color: white;
+	font-size: 45px;
+}
+.header_bottom{
+	padding-top: 50px;
+}
+.sing-in p{
+	background:#778899; 
+	padding: 15px;
+	color: white;
+	font-size: 20px;
+}
+.form_all{
+	border: 1px solid #778899;
+	border-top: none;
+}
+.sing_in_form{
+	padding: 10px;
+}
+.sing_in_form button:hover{
+	background:black;
+	color: white;
+}
+/*1st page end*/
+.header-top{
+	padding: 20px;
+	background:#778899;
+}
+.header-top-left{
+	
+}
+.header-top-left h3{
+	font-size: 35px;
+	color: #fff;
+}
+.header-top-right{
+	float: right;
+}
+.header-top-right li{
+   list-style: none;
+   display: inline-block;
+   font-size: 18px;
+   color: #fff;
+}
+/*header bottom css start*/
+.header-bottom{
+	margin-top: 40px;
+}
+.dashboard-left{
+	border-right: 1px solid #778899;
+}
+.dashboard-left h3{
+	background:#778899;
+	padding: 10px 0px 10px 10px;
+	color: #fff;
+	margin-bottom: 20px;
+}
+.dashboard-left h3 i{
+	padding-right: 10px;
+}
+.manu-list{}
+.manu-list ul{
+	margin: 0;
+	padding: 0;
+}
+.manu-list ul li{
+	list-style: none;
+	padding: 8px 0px;
+}
+.manu-list ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #778899;
+	padding:0px 10px;
+}
+.manu-list ul li a i{
+	padding-right: 10px;
+}
+.dashboard_right{
+	padding-top: 150px;
+}
+.dashboard_right h1{
+	font-size: 50px;
+}
+/*2nd page end*/
+.dashboard-right h2{
+	border-bottom: 1px solid #778899;
+	color: #778899;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+.from_group{
+	margin-bottom: 20px;
+}
+.from_group label{
+	color: #778899;
+	font-size: 16px;
+}
+.dashboard-right form button:hover{
+	background: black;
+	color: white;
+}
+/*3rd page end*/
+.dashboard-right_a{
+	padding-top: 5px;
+}
+.dashboard-right_a1 ul{
+	margin: 0;
+	padding: 0;
+	
+}
+.dashboard-right_a1{
+	
+}
+.dashboard-right_a1 li{
+	list-style: none;
+	display: inline-block;
+}
+.dashboard-right_a2{
+    float: right;
+    margin: 0;
+}
+.dashboard-right_a2 ul{
+  
+}
+.dashboard-right_a2  li{
+  list-style: none;
+  display: inline-block;
+}
+/*4th page end*/
+
+#mainbody{
+ 
+}
+.header_top h1{
+	background: grey;
+	color: white;
+	padding: 10px;
+	margin: 0 auto;
+}
+.herder-benar{
+	background: url(../images/book.jpg);
+	height: 270px;
+}
+.herder-benar button{
+	margin: 100px 0px 0px 650px;
+	padding: 20px;
+	box-shadow: 10px 10px 5px white;
+}
+.herder-benar button:hover{
+	background: black;
+	color: white;
+}
+.image-left img{
+	height: 200px;
+}
+.herder-bootom{
+	background: grey;
+	height: 300px;
+}
+.image-mid{
+	padding-top: 15px;
+}
+.image-mid h2{
+	text-align: center;
+}
+.image-mid h3{
+  padding-top:10px;
+  line-height: 35px;
+}
+.image-right img{
+	height: 200px;
+	float: right;
+}
+.sub-by h2{
+	text-align: center;
+
+}
+.sub-by h3{
+ padding:10px;
+ background: black;
+ color: green;
+ border-radius: 20px;
+ margin-top: 10px;
+
+}
+
+.submit{
+	padding-bottom:15px;
+}
